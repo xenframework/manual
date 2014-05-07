@@ -4,9 +4,11 @@ PHP is a very easy to learn language. You can create applications very fast. The
 
 Problem: The developer can have a false security feeling, ‘I am the best developer!’. As a result we have very difficult to maintain and hard to scale applications, that are also unsafe and where the code reutilization is very hard to achieve.
 
-xenframework is a library and a project directory structure that allows us to create a project using the MVC design pattern (Model View Controller) 100% object oriented.
+First of all we have to say that xenframework is an open source project with the purpose of 'Learn how to create a PHP MVC Framework'.
 
-xenframework is open source and it was developed by Ismael Trascastro (Computer Vocational Education Teacher) as a tool to teach the use of frameworks in PHP.
+That said, xenframework is a library and a project directory structure that allows us to create a project using the MVC design pattern (Model View Controller) 100% object oriented.
+
+xenframework was developed by Ismael Trascastro (Computer Vocational Education Teacher) as a tool to teach the use of frameworks in PHP.
 
 xenframework was developed on demand. Each feature in xenframework exists because it was needed during the development explanations in the classroom. And always with the easy of use in mind.
 
