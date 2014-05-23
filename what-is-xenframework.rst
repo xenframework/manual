@@ -1,6 +1,6 @@
 1. What is xenframework
 =======================
-PHP is a very easy to learn language. You can create applications very fast. The ‘Time to market’ (time to put an ide in production) is very low compared with other languages.
+PHP is a very easy to learn language. You can create applications very fast. The ‘Time to market’ (time to put an idea in production) is very low compared with other languages.
 
 Problem: The developer can have a false security feeling, ‘I am the best developer!’. As a result we have very difficult to maintain and hard to scale applications, that are also unsafe and where the code reutilization is very hard to achieve.
 
